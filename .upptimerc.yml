@@ -13,6 +13,8 @@ sites:
     url: https://www.ncu.edu.tw/tw/index.html
   - name: Overreacted
     url: https://overreacted.io/
+  - name: Leetcode
+    url: https://leetcode.com/
   - name: Test Added Broken Site
     url: https://thisisawebsitedoesnotexistaddedbyme.asjdnoi.xxjrun
 
