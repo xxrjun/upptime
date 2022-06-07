@@ -113,18 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/thisisawebsitedoesnotexistaddedbyme.asjdnoi.xxjrun",
     "slug": "test-added-broken-site",
     "status": "down",
-    "uptime": "36.86%",
-    "uptimeDay": "36.86%",
-    "uptimeWeek": "36.86%",
-    "uptimeMonth": "36.86%",
-    "uptimeYear": "36.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-07": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
