@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 692,
-    "timeWeek": 609,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "time": 735,
+    "timeDay": 883,
+    "timeWeek": 650,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 240,
-    "timeWeek": 258,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 248,
+    "timeDay": 227,
+    "timeWeek": 253,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 364,
-    "timeWeek": 321,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 326,
+    "timeDay": 484,
+    "timeWeek": 352,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 2107,
-    "timeDay": 2553,
-    "timeWeek": 2208,
-    "timeMonth": 2107,
-    "timeYear": 2107,
+    "time": 2126,
+    "timeDay": 2340,
+    "timeWeek": 2259,
+    "timeMonth": 2126,
+    "timeYear": 2126,
     "dailyMinutesDown": {
       "2022-06-15": 16
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 114,
-    "timeWeek": 106,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 82,
+    "timeDay": 32,
+    "timeWeek": 105,
+    "timeMonth": 82,
+    "timeYear": 82,
     "dailyMinutesDown": {}
   },
   {
@@ -96,18 +96,20 @@
     "url": "https://leetcode.com/",
     "icon": "https://favicons.githubusercontent.com/leetcode.com",
     "slug": "leetcode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 221,
-    "timeWeek": 207,
-    "timeMonth": 200,
-    "timeYear": 200,
-    "dailyMinutesDown": {}
+    "time": 185,
+    "timeDay": 45,
+    "timeWeek": 190,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "Test Added Broken Site",
