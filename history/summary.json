@@ -58,19 +58,19 @@
     "url": "https://www.ncu.edu.tw/tw/index.html",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "national-central-university",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2083,
-    "timeDay": 2758,
-    "timeWeek": 2188,
-    "timeMonth": 2083,
-    "timeYear": 2083,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2107,
+    "timeDay": 2553,
+    "timeWeek": 2208,
+    "timeMonth": 2107,
+    "timeYear": 2107,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 16
     }
   },
   {
