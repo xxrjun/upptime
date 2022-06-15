@@ -58,9 +58,9 @@
     "url": "https://www.ncu.edu.tw/tw/index.html",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "national-central-university",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 2188,
     "timeMonth": 2083,
     "timeYear": 2083,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "Overreacted",
