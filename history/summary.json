@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 648,
-    "timeWeek": 561,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "time": 662,
+    "timeDay": 605,
+    "timeWeek": 571,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 271,
+    "time": 245,
+    "timeDay": 263,
     "timeWeek": 239,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 510,
-    "timeWeek": 421,
+    "timeDay": 383,
+    "timeWeek": 422,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {}
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2169,
-    "timeDay": 1497,
-    "timeWeek": 2153,
-    "timeMonth": 2169,
-    "timeYear": 2169,
+    "time": 2175,
+    "timeDay": 2300,
+    "timeWeek": 2164,
+    "timeMonth": 2175,
+    "timeYear": 2175,
     "dailyMinutesDown": {
       "2022-06-15": 16
     }
@@ -79,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/overreacted.io",
     "slug": "overreacted",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 113,
-    "timeWeek": 160,
+    "timeDay": 110,
+    "timeWeek": 141,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {
-      "2022-06-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Leetcode",
@@ -105,8 +103,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 183,
-    "timeDay": 178,
-    "timeWeek": 174,
+    "timeDay": 179,
+    "timeWeek": 165,
     "timeMonth": 183,
     "timeYear": 183,
     "dailyMinutesDown": {
