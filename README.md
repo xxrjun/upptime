@@ -1,3 +1,5 @@
+This repo is for my school hw. And it would be archieved now.
+
 # [📈 Live Status](https://xxrjun.github.io/upptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [rjun](https://xxrjun.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
